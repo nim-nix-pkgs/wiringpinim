@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-wiringPiNim-master.flake = false;
+  inputs.src-wiringPiNim-master.ref   = "refs/heads/master";
   inputs.src-wiringPiNim-master.owner = "ThomasTJdev";
-  inputs.src-wiringPiNim-master.ref   = "master";
   inputs.src-wiringPiNim-master.repo  = "nim_wiringPiNim";
   inputs.src-wiringPiNim-master.type  = "github";
   
