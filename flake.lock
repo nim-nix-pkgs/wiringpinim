@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653690325,
-        "narHash": "sha256-iTO8NREvp+fSaOF77Prm67yAXxxkEc6u2xoaCu72gJ8=",
+        "lastModified": 1653696930,
+        "narHash": "sha256-gtZZ+vi4Wmfhf0c3bVOeawBFmuiiUdf72Fs4CVViiVs=",
         "owner": "nim-nix-pkgs",
         "repo": "wiringpinim",
-        "rev": "ef2aa2c95bacf598ae887e578338560787d6fb94",
+        "rev": "28fbdff6a77287fce16a4456eaafef14babadf56",
         "type": "github"
       },
       "original": {
